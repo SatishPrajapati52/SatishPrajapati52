@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Satish Prajapati!</h1>
 <h3 align="center">A Passionate Website Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishprajapati52&label=Profile%20views&color=0e75b6&style=flat" alt="satishprajapati52" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishprajapati52&label=Profile%20views&color=0e75b6&style=flat" alt="satishprajapati52"/> </p>
 
 - 🔭 I’m currently working on **Flutter,Android**
 
